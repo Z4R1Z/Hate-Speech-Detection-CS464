@@ -1,0 +1,31 @@
+TOTAL: 26815
+Hate: 11518
+Non: 15297
+
+gibert2018en.csv
+    rows:       10944
+    file size:  1201071
+    labels:     
+        none:      9507
+        hate:      1196
+        relation:  168
+        idk/skip:  73
+
+chung2019.csv
+    rows:       856
+    file size:  111438
+    labels:     
+        hate:          856
+        
+basile2019en.csv
+    rows:       10000
+    file size:  1627304
+    labels:     
+        hate:        4210
+	none:        5790
+
+ONLY HATE: qian2019en_reddit.csv
+    rows:       22323
+    file size:  6338158
+    labels:     
+        hate:  5256

@@ -18,6 +18,10 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn import model_selection, naive_bayes, svm
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import accuracy_score
+from datasets import load_dataset
+
+dataset = load_dataset("jigsaw_toxicity_pred")
+print( dataset)
 
 np.random.seed(500)
 data = pd.read_csv("train_E6oV3.csv")

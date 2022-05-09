@@ -1,0 +1,142 @@
+######################
+# Overall Statistics #
+######################
+
+rows:       151520
+file size:  26392074
+labels:     
+    indirect:       13479
+    none:           29558
+    offensive:      56021
+    direct:         5182
+    hate:           27965
+    abusive:        4736
+    disrespectful:  2575
+    fearful:        1553
+    obscene:        736
+    relation:       168
+    idk/skip:       73
+    Islamophobia:   856
+######################
+# Dataset Statistics #
+######################
+
+ousidhoum2019ar.csv
+    rows:       3353
+    file size:  543386
+    labels:     
+        indirect:       1933
+        none:           1197
+        offensive:      1151
+        direct:         1420
+        hate:           755
+        abusive:        610
+        disrespectful:  615
+        fearful:        41
+
+ousidhoum2019en_with_stopwords.csv
+    rows:       5647
+    file size:  685464
+    labels:     
+        indirect:       5078
+        offensive:      4020
+        none:           1359
+        direct:         569
+        hate:           1278
+        disrespectful:  782
+        abusive:        671
+        fearful:        562
+
+ousidhoum2019en.csv
+    rows:       5647
+    file size:  545804
+    labels:     
+        indirect:       5078
+        offensive:      4020
+        none:           1359
+        direct:         569
+        hate:           1278
+        disrespectful:  782
+        abusive:        671
+        fearful:        562
+
+ousidhoum2019fr.csv
+    rows:       4014
+    file size:  491042
+    labels:     
+        direct:         2624
+        offensive:      1690
+        abusive:        1056
+        indirect:       1390
+        none:           1124
+        fearful:        388
+        hate:           399
+        disrespectful:  396
+
+mulki2019ar.csv
+    rows:       5846
+    file size:  796499
+    labels:     
+        none:     3650
+        abusive:  1728
+        hate:     468
+
+mubarak2017ar_twitter.csv
+    rows:       1111
+    file size:  169154
+    labels:     
+        none:       453
+        offensive:  444
+        obscene:    203
+
+mubarak2017ar_aljazeera.csv
+    rows:       31692
+    file size:  6397936
+    labels:     
+        offensive:  25506
+        none:       5653
+        obscene:    533
+
+davidson2017en.csv
+    rows:       24783
+    file size:  2727812
+    labels:     
+        offensive:  19190
+        none:       4163
+        hate:       1430
+
+gibert2018en.csv
+    rows:       10944
+    file size:  1201071
+    labels:     
+        none:      9507
+        hate:      1196
+        relation:  168
+        idk/skip:  73
+
+gao2018en.csv
+    rows:       1528
+    file size:  251848
+    labels:     
+        none:  1093
+        hate:  435
+
+chung2019.csv
+    rows:       856
+    file size:  111438
+    labels:     
+        hate:          856
+        Islamophobia:  856
+
+qian2019en_gab.csv
+    rows:       33776
+    file size:  6132462
+    labels:     
+        hate:  14614
+
+qian2019en_reddit.csv
+    rows:       22323
+    file size:  6338158
+    labels:     
+        hate:  5256
+
