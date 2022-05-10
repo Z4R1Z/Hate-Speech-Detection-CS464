@@ -25,7 +25,7 @@ basile2019en.csv
 	none:        5790
 
 ONLY HATE: qian2019en_reddit.csv
-    rows:       22323
+    rows:       5256
     file size:  6338158
     labels:     
         hate:  5256
